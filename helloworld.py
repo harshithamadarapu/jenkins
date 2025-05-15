@@ -1,3 +1,3 @@
-print("Hello from Harshitha's Jenkins Job")
+print("Hello from Harshitha's Jenkins")
 
 
