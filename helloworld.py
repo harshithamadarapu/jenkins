@@ -1,5 +1,5 @@
 print("Hello from Harshitha ")
-print("Auto build test – SCM polling")
+print("Triggered automatically by Poll SCM")
 
 
 
