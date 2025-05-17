@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        label 'docker' // MUST MATCH your Docker Template's label
-    }
+    agent any // ← use this instead of label 'docker'
     stages {
         stage('Run Python') {
             steps {
